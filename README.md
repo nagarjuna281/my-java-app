@@ -1,1 +1,1 @@
-# P1-my-java-app-rep
+# P1-my-java-app
