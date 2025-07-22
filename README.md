@@ -1,1 +1,1 @@
-# P1-my-java-app
+# my-java-app
